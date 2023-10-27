@@ -1,0 +1,5 @@
+1. datasets.txt (https://www.kaggle.com/code/mahmoudreda55/generative-chatbot)
+
+2. scientific_papers (pubmed) in packages datasets (https://www.kaggle.com/code/vismaysuramwar/seq2seq-chatbot) -> https://huggingface.co/docs/datasets/v1.7.0/loading_datasets.html#from-the-huggingface-hub : HUGGING FACE HUB
+
+3. Cornell Movie dataset (https://cefasgpereira.medium.com/chat-gpt-lests-develop-our-own-artificial-intelligence-chatbot-3daf5ff4d6bf)
